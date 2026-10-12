@@ -48,3 +48,7 @@
 > 改了盤體外形後，`Fillet_Bottom` 的選邊可能因拓撲命名變動失效，需重新選取底部 8 條邊。
 
 ![俯視圖](preview_top.png)
+
+## 授權
+
+[MIT License](LICENSE)
